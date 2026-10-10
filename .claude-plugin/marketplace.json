@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"文献综述专家：文献收集 → 框架设计（主题聚类/时间线/学派对比） → 逐节写作 → 引用格式校验","name":"lhg-lit-review","source":"./"}]}
